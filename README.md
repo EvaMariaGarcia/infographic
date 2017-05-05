@@ -1,4 +1,4 @@
 # infographic
 
 
-- [Infographic](http://evamariagarcia.github.io/infographic/infographic.png) 
+- [Infographic](https://github.com/EvaMariaGarcia/infographic/blob/master/infographic.png) 
